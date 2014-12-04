@@ -1,4 +1,4 @@
-== Heroku JRuby/Rails4 Seed
+# Heroku JRuby/Rails4 Seed
 
 This project projects a template for a new Rails 4 application running on Heroku. Go ahead, deploy it:
 
