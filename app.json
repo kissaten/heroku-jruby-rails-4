@@ -1,0 +1,8 @@
+{
+  "name": "heroku-jruby-rails4",
+  "description": "Seed app for JRuby, Rails4, Heroku and Postgres",
+  "repository": "https://github.com/kissaten/heroku-jruby-rails-4",
+  "addons": ["heroku-postgresql:hobby-dev", "papertrail"],
+  "success_url": "/",
+  "keywords": ["jruby", "rails", "postgresql", "puma"]
+}
